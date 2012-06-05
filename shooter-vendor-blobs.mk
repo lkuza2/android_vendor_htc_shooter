@@ -82,7 +82,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/bin/wimax_uart:/system/bin/wimax_uart \
     vendor/htc/shooter/proprietary/bin/wireless_modem:/system/bin/wireless_modem \
     vendor/htc/shooter/proprietary/lib/hw/camera.default.so:system/lib/hw/camera.default.so \
-    vendor/htc/shooter/proprietary/lights.msm8660.so:/system/lib/hw/lights.msm8660.so \
+    vendor/htc/shooter/proprietary/lib/hw/lights.msm8660.so:/system/lib/hw/lights.msm8660.so \
     vendor/htc/shooter/proprietary/lib/hw/sensors.shooter.so:/system/lib/hw/sensors.shooter.so \
     vendor/htc/shooter/proprietary/lib/libacdbloader.so:/system/lib/libacdbloader.so \
     vendor/htc/shooter/proprietary/lib/libacdbmapper.so:/system/lib/libacdbmapper.so \

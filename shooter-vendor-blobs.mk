@@ -28,6 +28,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
     vendor/htc/shooter/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
     vendor/htc/shooter/proprietary/lib/libmmparser_divxdrmlib.so:system/lib/libmmparser_divxdrmlib.so \
+    vendor/qcom/proprietary/system/lib/libDivxDrm.so:system/lib/libDivxDrm.so
 
 # Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_COPY_FILES += \
